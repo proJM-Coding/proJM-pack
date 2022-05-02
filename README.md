@@ -1,1 +1,1 @@
-# proJM-pack
+# proJM pack
