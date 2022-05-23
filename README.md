@@ -11,3 +11,5 @@ Bow stages are colour coded
 Ore textures changed to be easier to see (also old textures)
 More clear water
 Alows you to see invisible players better (for bedwars)
+
+!Any ideas or features you will like please tell me!
