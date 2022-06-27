@@ -13,7 +13,7 @@ Current features:
 
 . Ore textures changed to be easier to see (also old textures)
 
-. clearer water
+. Clearer water
 
 . Alows you to see invisible players better (for bedwars)
 
