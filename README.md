@@ -7,9 +7,13 @@ Please tell me about any ways to help with performance, there is a issue about i
 
 Current features:
 Better sounds
+
 Bow stages are colour coded
+
 Ore textures changed to be easier to see (also old textures)
+
 More clear water
+
 Alows you to see invisible players better (for bedwars)
 
 **Any ideas or features you will like please tell me!**
