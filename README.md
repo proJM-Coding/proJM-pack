@@ -16,9 +16,5 @@ Alows you to see invisible players better (for bedwars)
 
 ---**How to use**---
 
-To use please download as a zip file and then unzip it on your computer. Then unzip the "proJM pack [§f16§bx§8].zip" file. 
-Inside there will be a folder and put it in the minecraft resource pack folder:
-
+Unzip the file and drag out "proJM pack [§f16§bx§8].zip". Put the file "proJM pack [§f16§bx§8].zip" into the directory shown bellow:
 "C:\ Users\ user\ AppData\ Roaming\ .minecraft\ resourcepacks"
-
-I can't zip the folder normally so sorry. I will try to fix this latter.
