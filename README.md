@@ -6,15 +6,18 @@ The pack was based on zyph's pack and Fiizy's pack also. The sounds and blocks w
 Please tell me about any ways to help with performance, there is a issue about it and you can talk about it there.
 
 Current features:
-Better sounds
 
-Bow stages are colour coded
+. Better sounds
 
-Ore textures changed to be easier to see (also old textures)
+. Bow stages are colour coded and have diffrent sounds per stage
 
-More clear water
+. Ore textures changed to be easier to see (also old textures)
 
-Alows you to see invisible players better (for bedwars)
+. clearer water
+
+. Alows you to see invisible players better (for bedwars)
+
+. Lowered fire overlay hight (not in uploaded pack yet, still working on it).
 
 **Any ideas or features you will like please tell me!**
 
