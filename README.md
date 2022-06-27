@@ -5,6 +5,8 @@ The MIX pack will not be edited on and it was just to test the performance impac
 The pack was based on zyph's pack and Fiizy's pack also. The sounds and blocks were from zyph's pack but the bow was from Fiizy's.
 Please tell me about any ways to help with performance, there is a issue about it and you can talk about it there.
 
+---**Minecraft will show the pack as "incompatible" or "for a diffrent version" it still will work on all version so far**---
+
 Current features:
 
 . Better sounds
