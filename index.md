@@ -1,3 +1,3 @@
 # proJM pack
 
-## Imagine a way to making minecraft easier but without changing the game
+## A simple pack made to improve quality of life and gameplay but with keeping what you love from your normal texture pack.
