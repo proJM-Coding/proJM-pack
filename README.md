@@ -21,7 +21,7 @@ Current features:
 
 . Lowered fire overlay hight (not in uploaded pack yet, still working on it).
 
-**Any ideas or features you will like please tell me!**
+**Any ideas or features you will like please tell me! We would also like people to tell ways to improve performance**
 
 ---**How to use**---
 
