@@ -1,7 +1,7 @@
 # proJM pack
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+---
 ## A simple pack made to improve quality of life and gameplay but with keeping what you love from your normal texture pack.
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+---
 ## What does proJM pack do?
 proJM pack is a simple pack that addes helpful features to minecraft to make minecraft easier. It latches onto your pack that you use adding helful features. This does not remove any features of the pack you are using but instead adds features to your pack.
 
