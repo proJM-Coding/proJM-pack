@@ -13,7 +13,9 @@ So far we have added this features:
 - Alows you to see invisible players better (for bedwars).
 - Lowered fire overlay hight (not added yet, still working on it).
 - Diffrent sounds for explosions and bows.
+
 ---
+
 ## Q&A:
 ### Does it work for all packs?
 Yes it does but it works best for 16x16 packs and packs that stick to a vanilla feel.
