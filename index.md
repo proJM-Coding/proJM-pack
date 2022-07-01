@@ -17,10 +17,10 @@ So far we have added this features:
 ---
 ## Q&A:
 ### Does it work for all packs?
-Yes it does but it works best for 16x16 packs and packs that stick to a vanilla feel.
+> Yes it does but it works best for 16x16 packs and packs that stick to a vanilla feel.
 ### Minecraft says the pack is incompatible.
-Minecaft thinks that the pack is incompatible because of the bedwars feature. The pack will still work for any version it just says it will not.
+> Minecaft thinks that the pack is incompatible because of the bedwars feature. The pack will still work for any version it just says it will not.
 ### What is dither.png?
-Dither.png is for 1.8.9 without it the pack will not show up in minecraft. Dither.png is also what takes care of the "super secret settings" for 1.8.9.
+> Dither.png is for 1.8.9 without it the pack will not show up in minecraft. Dither.png is also what takes care of the "super secret settings" for 1.8.9.
 ### How can I help?
-You can help by going to the github page and making a new issue for a feature you would like or bug you found.
+> You can help by going to the github page and making a new issue for a feature you would like or bug you found.
