@@ -15,7 +15,6 @@ So far we have added this features:
 - Diffrent sounds for explosions and bows.
 
 ---
-
 ## Q&A:
 ### Does it work for all packs?
 Yes it does but it works best for 16x16 packs and packs that stick to a vanilla feel.
