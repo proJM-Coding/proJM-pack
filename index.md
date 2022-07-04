@@ -31,4 +31,8 @@ So far we have added this features:
 > You can help by going to the github page and making a new issue for a feature you would like or bug you found.
 
 ## Gallery
-[sound should be here](https://github.com/proJM1/proJM-pack/blob/4b26cca0c6343818f73dbb60d69080fdf65e2608/.files/bow.ogg)
+
+<audio controls="controls">
+  <source type="audio/ogg" src="bow.ogg"><https://github.com/proJM1/proJM-pack/blob/4b26cca0c6343818f73dbb60d69080fdf65e2608/.files/bow.ogg>
+  <p>Your browser does not support the audio element.</p>
+</audio>
