@@ -27,12 +27,12 @@ To be added
 > Minecaft thinks that the pack is incompatible because of the bedwars feature. The pack will still work for any version it just says it will not.
 
 ### What is dither.png?
-> Dither.png is for 1.8.9 without it the pack will not show up in minecraft. Dither.png is also what takes care of the "super secret settings" for 1.8.9.
+> Dither.png is for 1.8.9 without it the pack will not show up in minecraft. Dither.png is also what takes care of the "super secret settings" (does not change it though) for 1.8.9.
 
 ### How can I help?
 > You can help by going to the github page and making a new issue for a feature you would like or bug you found.
 
 # Gallery
 ## Audio
-<center> <audio src="https://github.com/proJM-Coding/proJM-pack/raw/main/.files/bow.ogg" controls autoplay loop></audio>ㅤㅤㅤㅤ<audio src="https://github.com/proJM-Coding/proJM-pack/raw/main/.files/explode1.ogg" controls autoplay loop></audio> </center>
+<center> <audio src="https://github.com/proJM-Coding/proJM-pack/raw/main/.files/bow.ogg" controls autoplay loop></audio>ㅤㅤㅤㅤㅤ<audio src="https://github.com/proJM-Coding/proJM-pack/raw/main/.files/explode1.ogg" controls autoplay loop></audio> </center>
 ## Images (To be added)
