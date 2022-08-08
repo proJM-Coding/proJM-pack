@@ -34,4 +34,3 @@ To be added
 
 # Gallery
 Tesing currently
-<audio ref='bow' src="[vendor/assets/music/Tetris.mp3](https://github.com/proJM-Coding/proJM-pack/blob/main/.files/bow.ogg)" autoPlay loop></audio>
