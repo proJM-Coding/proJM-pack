@@ -16,6 +16,8 @@ So far we have added this features:
 
 ---
 # How do I use the pack?
+To be added
+
 ---
 ## Q&A:
 ### Does it work for all packs?
@@ -30,4 +32,6 @@ So far we have added this features:
 ### How can I help?
 > You can help by going to the github page and making a new issue for a feature you would like or bug you found.
 
-## Gallery
+# Gallery
+Tesing currently
+<audio ref='bow' src="[vendor/assets/music/Tetris.mp3](https://github.com/proJM-Coding/proJM-pack/blob/main/.files/bow.ogg)" autoPlay loop></audio>
