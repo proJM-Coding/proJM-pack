@@ -34,5 +34,5 @@ To be added
 
 # Gallery
 ## Audio
-<center> <audio src="https://github.com/proJM-Coding/proJM-pack/raw/main/.files/bow.ogg" controls autoplay loop></audio>   <audio src="https://github.com/proJM-Coding/proJM-pack/raw/main/.files/explode1.ogg" controls autoplay loop></audio> </center>
+<center> <audio src="https://github.com/proJM-Coding/proJM-pack/raw/main/.files/bow.ogg" controls autoplay loop></audio>ㅤㅤㅤㅤ<audio src="https://github.com/proJM-Coding/proJM-pack/raw/main/.files/explode1.ogg" controls autoplay loop></audio> </center>
 ## Images (To be added)
