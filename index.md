@@ -33,5 +33,5 @@ To be added
 > You can help by going to the github page and making a new issue for a feature you would like or bug you found.
 
 # Gallery
-Tesing currently
+Working on still.
 <audio src="https://github.com/proJM-Coding/proJM-pack/raw/main/.files/bow.ogg" controls autoplay loop></audio>
