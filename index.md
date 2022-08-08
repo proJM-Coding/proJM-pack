@@ -33,5 +33,6 @@ To be added
 > You can help by going to the github page and making a new issue for a feature you would like or bug you found.
 
 # Gallery
-Working on still.
-<audio src="https://github.com/proJM-Coding/proJM-pack/raw/main/.files/bow.ogg" controls autoplay loop></audio>
+## Audio
+<audio src="https://github.com/proJM-Coding/proJM-pack/raw/main/.files/bow.ogg" controls autoplay loop></audio>   <audio src="https://github.com/proJM-Coding/proJM-pack/raw/main/.files/explode1.ogg" controls autoplay loop></audio>
+## Images (To be added)
