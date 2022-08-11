@@ -7,6 +7,8 @@ Please tell me about any ways to help with performance, there is a issue about i
 
 --**Minecraft will show the pack as "incompatible" or "for a diffrent version" it still will work on all version so far**--
 
+You can find the website [here](https://projm-coding.github.io/proJM-pack/).
+
 Current features:
 
 . Better sounds
@@ -27,4 +29,4 @@ Current features:
 
 Unzip the file and drag out "proJM pack [§f16§bx§8].zip". Put the file "proJM pack [§f16§bx§8].zip" into the directory shown bellow:
 
-"C:\ Users\ user\ AppData\ Roaming\ .minecraft\ resourcepacks"
+"C:\ Users\ %username%\ AppData\ Roaming\ .minecraft\ resourcepacks"
