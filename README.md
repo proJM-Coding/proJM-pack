@@ -1,30 +1,33 @@
-# proJM pack
-This is a normal 16x pack to add quality of life and gameplay upgrades but with keeping the things you love from your normal pack.
-Please if you have any problems with the pack or any ideas, go to the Issues tab and list it.
-The MIX pack will not be edited on and it was just to test the performance impact of using it layered. 
-The pack was based on zyph's pack and Fiizy's pack also. The sounds and blocks were from zyph's pack but the bow was from Fiizy's.
-Please tell me about any ways to help with performance, there is a issue about it and you can talk about it there.
+<div align='center'>
 
---**Minecraft will show the pack as "incompatible" or "for a diffrent version" it still will work on all version so far**--
+# proJM Pack 
+![Analytics image](https://repobeats.axiom.co/api/embed/6cc0618b0c19b49b96e7bdec525ed9de121060e4.svg "Analytics image")
 
-Current features:
+Using:
 
-. Better sounds
+![Github pages image](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white "Github pages")
+![Jekyll image](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white "Jekyll")
+![Html image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "Html")
 
-. Bow stages are colour coded and have diffrent sounds per stage
+# Repo info
 
-. Ore textures changed to be easier to see (also old textures)
+This is proJM's personal pack with a 16 by 16 resolution.
 
-. Clearer water
+This pack is made to be very different from most packs.
+From being made without a pack maker to not being made for looks.
 
-. Alows you to see invisible players better (for bedwars)
+Our texture pack is made to add features to any pack that you use.
 
-. Lowered fire overlay hight (not in uploaded pack yet, still working on it).
 
-**Any ideas or features you will like please tell me! We would also like people to tell ways to improve performance**
+# How to use
 
----**How to use**---
+Go to to the [releases](https://github.com/proJM-Coding/proJM-pack/releases) and find the latest one. 
 
-Unzip the file and drag out "proJM pack [§f16§bx§8].zip". Put the file "proJM pack [§f16§bx§8].zip" into the directory shown bellow:
+Under assets download the proJM pack.zip file.
 
-"C:\ Users\ user\ AppData\ Roaming\ .minecraft\ resourcepacks"
+Put this file in "%appdata%\.minecraft\resourcepacks" and launch minecraft.
+
+Activate the texture pack and ignore any warnings about it being made for a different version.
+
+# Thank you to all our contributors
+![Contributors image](https://contrib.rocks/image?repo=proJM-Coding/proJM-pack "Contributors image")
